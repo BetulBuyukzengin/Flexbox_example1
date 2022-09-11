@@ -1,0 +1,62 @@
+.kutu{
+    justify-content: center;
+    display: flex;
+    justify-content: 4px;
+    color: white;
+    background-color: blue;
+    width: 20%;
+    margin: 4%;
+    height: 66px;
+
+}
+.kutular{
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    border-color: black;
+}
+/***************************************************/
+.yanyana{
+    width:65%;
+    display: flex;
+    border-color: black;
+    
+}
+.flexcalisma{
+    width: 100%;
+    display: flex;
+}
+/*****************************************************/
+.daireler{
+width: 100%;
+display: flex;
+justify-content: space-between;  }
+.daire{
+    height: 60px;  width: 8%;  
+    border: solid 1px;
+    background-color: rgb(159, 88, 226);
+    border-radius: 100%;   }
+.text{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 4%;   }
+.başta{
+    font-size: 15px;
+    background-color: blue;  color: white;
+    height: 50px;    width: 30%;
+    display: flex;
+    justify-content: start;}
+.orta{
+    font-size: 15px;
+    background-color: blue; color: white;
+    display: flex;
+    height: 50px;    width: 30%;
+    justify-content: center;}
+.son{
+    font-size: 15px;
+    background-color: blue;color: white;
+    height: 50px;    width: 30%;
+    display: flex;
+    justify-content: end;
+}
